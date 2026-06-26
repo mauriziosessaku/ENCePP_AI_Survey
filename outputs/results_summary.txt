@@ -1,0 +1,19 @@
+Total respondents: 16 (PE=13, PV=3)
+Adoption: {'no-planned': 1, 'yes-routine': 9, 'no-none': 1, 'yes-pilot': 5}
+PE apps (Q5-PE): {'phenotyping': 5, 'study-design': 5, 'causal': 5, 'nlp-texts': 2, 'prediction': 7, 'outcome-asc': 2, 'data-extract': 6, 'other-pe-uc': 1}
+PE methods: {'none-method': 1, 'classical-ml': 8, 'deep-learning': 4, 'nlp': 3, 'llm': 7, 'hybrid-causal': 3, 'federated': 3, 'xai': 3, 'generative': 3, 'use-not-know': 3}
+PV methods: {'classical-ml': 1, 'nlp': 1, 'llm': 1, 'signal-algo': 1, 'generative': 1, 'use-not-know': 2}
+PE wishes: {'realtime-pv': 3, 'federated-wish': 4, 'synthetic-wish': 3, 'causal-auto': 5, 'llm-coding': 2, 'protocol-ai': 2, 'signal-scale': 2, 'br-ai': 1, 'xai-reg': 3, 'other-wish': 1}
+PV wishes: {'signal-scale': 2, 'realtime-pv': 2, 'causal-auto': 1, 'xai-reg': 1, 'multimodal': 1, 'protocol-ai': 1}
+Barriers (I-1): {'expertise': 4, 'data': 2, 'privacy': 3, 'funding': 2, 'none': 1, 'computing': 3, 'culture': 1}
+PE perceptions means: [np.float64(3.8), np.float64(4.3), np.float64(2.8), np.float64(2.2), np.float64(2.8), np.float64(3.0)]
+PV perceptions means: [np.float64(3.0), np.float64(3.3), np.float64(2.7), np.float64(3.0), np.float64(3.0), np.float64(2.3)]
+PE terminology means: [np.float64(3.4), np.float64(2.8), np.float64(3.0), np.float64(3.3), np.float64(2.5)]
+PV terminology means: [np.float64(3.3), np.float64(2.7), np.float64(2.7), np.float64(3.3), np.float64(3.7)]
+Wrote Table 1 -> outputs/table1_respondent_profile.csv
+Off-the-shelf AI use (any 'yes'): 15/16
+GenAI changed PE = yes: 9/13
+PE interoperability: {'dk': 4, 'not': 3, 'partial': 4, 'fully': 1, 'na': 1}
+PE enablers (P-3): {'reg-clarity': 8, 'leadership': 7, 'open-tools': 5, 'data-access': 4, 'collab': 5, 'integration': 2, 'training': 6}
+PE conv-AI comfort: {'very-comf': 2, 'somewhat-uncomf': 6, 'very-uncomf': 1, 'somewhat-comf': 4}
+PV conv-AI comfort: {'somewhat-comf': 3}

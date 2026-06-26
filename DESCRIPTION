@@ -1,0 +1,11 @@
+Package: enceppAISurvey
+Title: ENCePP AI Survey Analysis
+Version: 1.0.0
+Authors@R: person("Maurizio", "Sessa", email = "maurizio@sund.ku.dk", role = c("aut","cre"))
+Description: Reproducible descriptive analysis of the ENCePP Working Group AI survey
+    on the perception and use of AI tools in pharmacoepidemiology and pharmacovigilance.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    tidyverse,
+    scales
